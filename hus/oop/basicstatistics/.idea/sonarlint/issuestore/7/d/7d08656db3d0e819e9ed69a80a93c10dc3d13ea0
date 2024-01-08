@@ -1,0 +1,23 @@
+
+@
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ü“ËÕÎ1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(š·…¼8”ËÕÎ1
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(€¹Á}8‚”ËÕÎ1
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ƒÎôş8ƒ”ËÕÎ1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Ğã òùÿÿÿÿ8ƒ”ËÕÎ1
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Š™×8„”ËÕÎ1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ŒØÖÀÿÿÿÿÿ8„”ËÕÎ1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ÖÆÜûÿÿÿÿ8…”ËÕÎ1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(øóÖì8…”ËÕÎ1
+@
+java:S21197"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8‰”ËÕÎ1
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(š·…¼8Œ”ËÕÎ1
+T	java:S106?"9Replace this use of System.out or System.err by a logger.(€¹Á}8Œ”ËÕÎ1
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ƒÎôş8”ËÕÎ1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(Ğã òùÿÿÿÿ8”ËÕÎ1
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(Š™×8”ËÕÎ1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ŒØÖÀÿÿÿÿÿ8”ËÕÎ1
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ÖÆÜûÿÿÿÿ8”ËÕÎ1
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(øóÖì8”ËÕÎ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8×çÔÕÎ1
